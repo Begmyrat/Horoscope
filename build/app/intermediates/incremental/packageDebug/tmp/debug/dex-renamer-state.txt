@@ -1,0 +1,4 @@
+#Sat Dec 14 12:58:36 EET 2019
+base.0=/Users/macbookuser/Desktop/FlutterApps/burc/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
